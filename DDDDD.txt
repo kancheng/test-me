@@ -1,0 +1,160 @@
+﻿1. XXXXXXXXXX
+DDDDDD
+CCCCCCC
+WWWWWWW
+2.
+
+
+3.
+
+
+4.
+
+
+5.
+
+
+6.
+
+
+7.
+
+
+8.
+
+
+9.
+
+
+10.
+
+
+11.
+
+
+12.
+
+
+13.
+
+
+14.
+
+
+15.
+
+
+16.
+1.
+
+	<span>&nbsp;
+		<i 
+			class="fa fa-info-circle"
+			style="color: #C3C3C3;"
+			data-container="body"
+			data-placement="top"
+			data-toggle="popover-hover"
+			data-content="使用下方的按钮管理学生资料。<br />
+
+					<b>Pupil Profile</b>: 包含学生的基本背景及学术程度等的简易履历。
+<br />
+					<b>Pupil Applications</b>: 查看学校申请的进度及后续流程。<br />
+					<b>School</b>: 查看学校详细资料。<br />
+					<b>Delete</b>: 删除学生资料。"
+			data-html="true">
+		</i> 
+	</span>
+
+
+使用下方的按钮管理学生资料。<br />
+
+<b>Pupil Profile</b>: 包含学生的基本背景及学术程度等的简易履历。
+<br />
+<b>Pupil Applications</b>: 查看学校申请的进度及后续流程。<br />
+<b>School</b>: 查看学校详细资料。<br />
+<b>Delete</b>: 删除学生资料。
+
+
+2.
+
+	<span>&nbsp;
+		<i 
+			class="fa fa-info-circle"
+			style="color: #C3C3C3;"
+			data-container="body"
+			data-placement="top"
+			data-toggle="popover-hover"
+			data-content="输入完整或部分学生姓名"
+			data-html="true">
+		</i> 
+	</span>
+
+输入完整或部分学生姓名
+
+
+3.
+
+	<span>&nbsp;
+		<i 
+			class="fa fa-info-circle"
+			style="color: #C3C3C3;"
+			data-container="body"
+			data-placement="top"
+			data-toggle="popover-hover"
+			data-content="筛选重要信息"
+			data-html="true">
+		</i> 
+	</span>
+
+筛选重要信息
+
+4.
+
+	<span>&nbsp;
+		<i 
+			class="fa fa-info-circle"
+			style="color: #C3C3C3;"
+			data-container="body"
+			data-placement="top"
+			data-toggle="popover-hover"
+			data-content="信息重要性标记"
+			data-html="true">
+		</i> 
+	</span>
+
+信息重要性标记
+
+
+
+5.
+
+	<span>&nbsp;
+		<i 
+			class="fa fa-info-circle"
+			style="color: #C3C3C3;"
+			data-container="body"
+			data-placement="top"
+			data-toggle="popover-hover"
+			data-content="分类新信息与旧信息"
+			data-html="true">
+		</i> 
+	</span>
+
+分类新信息与旧信息
+
+6.
+
+	<span>&nbsp;
+		<i 
+			class="fa fa-info-circle"
+			style="color: #C3C3C3;"
+			data-container="body"
+			data-placement="top"
+			data-toggle="popover-hover"
+			data-content="信息内容"
+			data-html="true">
+		</i> 
+	</span>
+
+信息内容
+
